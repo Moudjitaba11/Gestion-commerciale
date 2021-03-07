@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\dist",
+    "\\dist\\web-files",
+    "\\nbproject",
+    "\\src",
+    "\\src\\DAO",
+    "\\src\\DAO\\Test",
+    "\\src\\METIER",
+    "\\src\\MODEL"
+  ],
+  "PreviewInSolutionExplorer": false
+}
